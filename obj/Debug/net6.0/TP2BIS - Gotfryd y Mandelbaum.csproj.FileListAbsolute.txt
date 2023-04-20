@@ -1,0 +1,15 @@
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\bin\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.exe
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\bin\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.deps.json
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\bin\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.runtimeconfig.json
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\bin\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.dll
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\bin\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.pdb
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.csproj.AssemblyReference.cache
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.AssemblyInfoInputs.cache
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.AssemblyInfo.cs
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.csproj.CoreCompileInputs.cache
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.dll
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\refint\TP2BIS - Gotfryd y Mandelbaum.dll
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.pdb
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\TP2BIS - Gotfryd y Mandelbaum.genruntimeconfig.cache
+Z:\PROGRAMACION2023\TP2BIS - Gotfryd y Mandelbaum\obj\Debug\net6.0\ref\TP2BIS - Gotfryd y Mandelbaum.dll

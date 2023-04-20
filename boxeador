@@ -1,0 +1,36 @@
+﻿public class boxeador
+{
+    public string nombre{get;set;}
+    public string pais{get;set;}
+    public int peso{get;set;}
+    public double PotenciaGolpes{get;set;}
+    public double VelocidadPiernas{get;set;}
+    public double skill{get;set;}
+
+
+public boxeador()
+{
+
+}
+
+public boxeador(string nom = "", string Pais = "", int Peso = 0, double potenciaGolpes = 0, double velocidadPiernas = 0)
+{
+    nombre = nom;
+    pais = Pais;
+    peso = Peso;
+    PotenciaGolpes = potenciaGolpes;
+    VelocidadPiernas = velocidadPiernas;
+    skill = 0;
+}
+
+public double ObtenerSkill()
+{
+    double skill;
+    Random aleatorio = new Random ();
+    int numazar;
+    numazar = aleatorio.Next(1,10);
+    skill=(VelocidadPiernas*0.6 + PotenciaGolpes*0.8 + numazar);
+    return skill;
+}
+
+}
